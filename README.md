@@ -163,7 +163,6 @@ Button send;
 ![sms1](https://github.com/pradxxsh/sendsms/assets/131758539/1289e258-fc33-47cb-b334-4d32722ee847)
 
 ![akash](https://github.com/21002624/sendsms/assets/113762183/c2c351ee-99b1-40d0-b06d-5552692dadc9)
-![bharathi](https://github.com/21002624/sendsms/assets/113762183/6dee1236-6cd2-41f7-a735-995aa511c6c4)
 
 
 
